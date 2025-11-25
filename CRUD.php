@@ -9,7 +9,6 @@
     
 <h1>Qué signifcan las iniciales de CRUD?</h1>
 <p>La <strong>C</strong> es de CREATE (crear), la <strong>R</strong> es de READ (leer),la <strong>U</strong> es de UPDATE (actualizar) y la <strong>D</strong> es DELETE (eliminar). </p>
-<br>
 <h1>Para qué sirve CRUD?</h1>
 <p>CRUD es una forma básica de manejar datos en un sistema. Se usa en casi cualquier aplicación que guarda información, como redes sociales o tiendas online.</p>
  <h1>Qué diferencias hay entre cada una de las operaciones del CRUD?</h1>
