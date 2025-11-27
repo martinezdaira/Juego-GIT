@@ -19,6 +19,7 @@
  <h1>Por qué es importante un CRUD en una aplicación?</h1>
     <p>Es importante porque permite gestionar la información básica de una aplicación: crear, ver, actualizar y eliminar datos,sin estas operaciones la aplicación no podría funcionar correctamente ni permitir que los usuarios controlen su información.</p>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <br>
 <h1>CRUD-ALE</h1>
 <h1>IMPORTANCIA DE CRUD</h1>
@@ -33,6 +34,8 @@ La interfaz de usuario (UI) es aquello con lo que interactúan los usuarios.</p>
 <p>Las API son el medio por el cual su aplicación informa a su base de datos sobre las funciones que debe realizar. Estas funciones pueden modelarse de diferentes maneras, pero están diseñadas para realizar cuatro operaciones CRUD básicas: crear, leer, actualizar y eliminar.</p>
 
 =======
+=======
+>>>>>>> 5248ed2836b609c392a6d06a65652f1ed8350813
 
     <br>
     <h1>CRUD-Sara</h1>
@@ -53,6 +56,9 @@ La interfaz de usuario (UI) es aquello con lo que interactúan los usuarios.</p>
     Update: Cambiar el precio o la cantidad disponible de un producto.
     Delete: Retirar un producto del catálogo
     <p></p>
+<<<<<<< HEAD
 >>>>>>> ba634a47270ad335737aa7797b1dc94163f78c0d
+=======
+>>>>>>> 5248ed2836b609c392a6d06a65652f1ed8350813
 </body>
 </html>
