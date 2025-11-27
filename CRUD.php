@@ -37,6 +37,21 @@
     Read: Ver la información de un producto (precio, descripción, fotos).
     Update: Cambiar el precio o la cantidad disponible de un producto.
     Delete: Retirar un producto del catálogo
-    <p></p>
+    
+    <br>
+    <h1>CRUD-Natalia</h1>
+    <h1>¿Que es CRUD?</h1>
+    <p> CRUD es un acronimo que representa las cuatro operacione basicas que se pueden realizar en una base de datos o sistema de gestion de informacion: Crear (Create), Leer(Read), Actualizar (Update), Eliminar (Delete), estas operaciones son fundamenrtales para el manejo y manipulacion de datos en aplicaciones y sistemas informaticos.</p>
+    <h1>¿Cuales son las operaciones basicas de CRUD?</h1>
+    <p> Las operaciones basicas de CRUD son:
+        Crear (Create): Permite agregar nuevos registros o datos a una base o sistema.
+        Leer (Read): Permite recuperar y visualizar los datos existentes en una base o sistema.
+        Actualizar (Update): Permite modificar o cambiar los datos existentes en una base o sistema.
+        Eliminar (Delete): Permite borrar o remover datos existentes de una base o sistema.
+    </p>
+    <h1>¿Porque es importante CRUD en el desarrollo de aplicaciones?</h1>
+    <p> CRUD es importante en el desarrollo de aplicaciones porque proporciona una estructura clara y estandarizada para manejar datos. 
+        facilita la interaccion con bases de datos y sistemas de gestion de informacion al permitir operaciones basicas de manipulacion de datos.ademas, CRUD es esencial para garantizar la integridad y consistencia de los datos en una aplicacion, lo que contribuye a una mejor experiencia de usuario y a un desarrollo mas eficiente.</p>
+    </br>
 </body>
 </html>
