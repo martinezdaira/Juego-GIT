@@ -60,5 +60,14 @@ La interfaz de usuario (UI) es aquello con lo que interactúan los usuarios.</p>
 >>>>>>> ba634a47270ad335737aa7797b1dc94163f78c0d
 =======
 >>>>>>> 5248ed2836b609c392a6d06a65652f1ed8350813
+<br>
+<h1>CRUD-SANTI</h1>
+<h2>INSTRUCCIONES BASICAS DE CRUD EN UNA BASE DE DATOS.-</h2>
+<p>CREATE:INSERT INTO nombre_de_la_tabla (columna1, columna2, ...) VALUES (valor1, valor2, ...);</p>
+<p>READ:SELECT columna1, columna2, ... FROM nombre_de_la_tabla WHERE
+    condición;</p>
+<p>UPDATE:UPDATE nombre_de_la_tabla SET columna1 = valor1, columna2 = valor2, ... WHERE condición;</p>
+<p>DELETE:DELETE FROM nombre_de_la_tabla WHERE condición;</p>
+
 </body>
 </html>
