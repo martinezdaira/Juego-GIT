@@ -6,7 +6,7 @@
     <title>CRUD</title>
 </head>
 <body>
-    
+    <h1>CRUD-Daira</h1>
 <h1>Qué signifcan las iniciales de CRUD?</h1>
 <p>La <strong>C</strong> es de CREATE (crear), la <strong>R</strong> es de READ (leer),la <strong>U</strong> es de UPDATE (actualizar) y la <strong>D</strong> es DELETE (eliminar). </p>
 <h1>Para qué sirve CRUD?</h1>
@@ -18,24 +18,41 @@
     -Delete elimina datos existentes.</p>
  <h1>Por qué es importante un CRUD en una aplicación?</h1>
     <p>Es importante porque permite gestionar la información básica de una aplicación: crear, ver, actualizar y eliminar datos,sin estas operaciones la aplicación no podría funcionar correctamente ni permitir que los usuarios controlen su información.</p>
+<<<<<<< HEAD
 <br>
 <h1>CRUD-ALE</h1>
-<h2>INICIALES DE CRUD.-</h2>
-<p>CRUD es el acrónimo de las cuatro operaciones básicas para interactuar con datos: Crear, Read (Leer), Update (Actualizar) y Delete (Eliminar). Es un concepto fundamental en programación y se refiere a las funciones esenciales de la persistencia de datos, es decir, cómo los datos son añadidos,
-    consultados, modificados y borrados en un sistema. </p>
-<h2>UTILIDAD DE CRUD .-</h2>
-<p>se utilizan en aplicaciones de almacenamiento persistente, lo que significa que estas aplicaciones conservarán sus datos incluso después de que el sistema se apague. Estas son diferentes de las operaciones con datos almacenados en almacenamiento volátil, como la memoria de acceso aleatorio o 
-    los archivos de caché.</p>
-<h2>DIFERENCIA ENTRE SUS OPERACIONES.-</h2>
-<h3>CREAR</h3>
-<p>La operación CREATE añade un nuevo registro a una base de datos. </p>
-*<h3>LEER</h3>
-<p>La operación READ recupera datos de una base de datos sin modificarla. </p>
-<h3>ACTUALIZAR</h3>
-<p>La operación UPDATE modifica los datos existentes en una base de datos. </p>
-<h3>ELIMINAR</h3>
-<p>La operación DELETE elimina datos existentes de una base de datos. </p>
-<h2>IMPORTANCIA DE CRUD.-</h2>
-<p>CRUD es fundamental para el desarrollo de aplicaciones que manejan datos, ya que proporciona un marco estructurado para interactuar con la información almacenada. Permite a los desarrolladores crear interfaces de usuario intuitivas y eficientes, facilitando la gestión de datos por parte de los usuarios finales. Además, CRUD es esencial para mantener la integridad y coherencia de los datos en sistemas complejos.</p>
+<h1>IMPORTANCIA DE CRUD</h1>
+<p>CRUD es fundamental en el desarrollo de aplicaciones porque proporciona un marco estructurado para gestionar datos. Permite a los desarrolladores crear, leer, actualizar y eliminar información de manera eficiente, lo que es esencial para la funcionalidad de cualquier aplicación que maneje datos dinámicos. Sin CRUD, las aplicaciones no podrían interactuar adecuadamente con sus bases de datos, lo que limitaría su utilidad y eficacia.</p>
+<p>CRUD es un tipo específico de aplicación de software que consta de cuatro operaciones básicas: crear, leer, actualizar y eliminar.</p>
+<h2>Base de datos</h2>
+<p>La base de datos es donde se almacenan sus datos. Para administrarla, se utiliza un sistema de gestión de bases de datos </p>
+<h2>Interfaz de usuario</h2>
+<p>
+La interfaz de usuario (UI) es aquello con lo que interactúan los usuarios.</p>
+<h2>API</h2>
+<p>Las API son el medio por el cual su aplicación informa a su base de datos sobre las funciones que debe realizar. Estas funciones pueden modelarse de diferentes maneras, pero están diseñadas para realizar cuatro operaciones CRUD básicas: crear, leer, actualizar y eliminar.</p>
+
+=======
+
+    <br>
+    <h1>CRUD-Sara</h1>
+    <h1>Ejemplos de CRUD en la vida real</h1>
+    *Aplicaciones de redes sociales:
+    Create:Crear una nueva publicación o un perfil nuevo.
+    Read:Ver publicaciones de otras personas o consultar tu propio perfil.
+    Update:Editar una publicación o cambiar tu foto de perfil.
+    Delete:Borrar una publicación o eliminar tu cuenta.
+    *Aplicaciones bancarias:
+    Create: Abrir una cuenta nueva.
+    Read: Consultar movimientos o saldo.
+    Update: Modificar datos personales o actualizar la contraseña.
+    Delete: Cerrar una cuenta bancaria.
+    *Tienda en línea:
+    Create: Agregar un producto nuevo al catálogo.
+    Read: Ver la información de un producto (precio, descripción, fotos).
+    Update: Cambiar el precio o la cantidad disponible de un producto.
+    Delete: Retirar un producto del catálogo
+    <p></p>
+>>>>>>> ba634a47270ad335737aa7797b1dc94163f78c0d
 </body>
 </html>
