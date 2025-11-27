@@ -18,5 +18,8 @@
     -Delete elimina datos existentes.</p>
  <h1>Por qué es importante un CRUD en una aplicación?</h1>
     <p>Es importante porque permite gestionar la información básica de una aplicación: crear, ver, actualizar y eliminar datos,sin estas operaciones la aplicación no podría funcionar correctamente ni permitir que los usuarios controlen su información.</p>
+
+    <br>
+    <h1>Ejemplos de CRUD en la vida real</h1>
 </body>
 </html>
