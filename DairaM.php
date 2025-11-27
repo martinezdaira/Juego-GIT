@@ -31,5 +31,6 @@
 <h1>HERENCIA </h1>
 <p>La herencia permite a las subclases heredar atributos y métodos de la superclase, lo que significa que la subclase puede acceder y utilizar características y comportamientos definidos de la superclase.</p>
 
+
 </body>
 </html>
